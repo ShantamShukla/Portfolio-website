@@ -339,4 +339,4 @@ import {
     },
   ];
   
-  export { services, technologies, experiences, certifications, testimonials, projects };
+  export { services, technologies, experiences, /*certifications,*/ testimonials, projects };
